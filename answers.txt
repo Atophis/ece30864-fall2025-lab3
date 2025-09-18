@@ -1,1 +1,9 @@
+Question 1:
 
+Pro 1: Allows for constant collaboration with customers, letting it be more resilient to changes in project scope. 
+Pro 2: Less costly and more efficient. 
+
+Con 1: Scalability of project can be hard to estimate initially, as the project scope will change often. 
+Con 2: Requires constant input from the consumer, which can slow down development. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
