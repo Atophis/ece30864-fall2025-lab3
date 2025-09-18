@@ -15,3 +15,14 @@ Scrum Master: The scrum master is in charge of carrying out the product owner’
 Product Owner: The product owner is the one who controls the overall output of the project. They develop and convey the overall project goal, and make the decisions that influence how the project will be developed. 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Question 3:
+
+Meeting 1 - Sprint Planning Meeting: during this meeting, teams determine what they want to work on next in the coming sprint, and they determine story points for stories that have been moved to the upcoming sprint.
+
+Meeting 2 - Daily Scum / Standup Meeting: during this meeting, teams discuss work that has been completed, and they plan for the work ahead.
+
+Meeting 3 - Sprint Retrospective Meeting: during this meeting, teams break down the work they have done over the entire sprint, and they move incomplete work to the backlog. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
