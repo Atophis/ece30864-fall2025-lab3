@@ -26,3 +26,13 @@ Meeting 3 - Sprint Retrospective Meeting: during this meeting, teams break down 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
+Question 4:
+
+Epic - Captures a large body of work that can be broken down into several smaller stories. Essentially defines a large chunk of the project to be accomplished over a sprint. 
+
+Story - A software system requirement that can be completed to work towards the development of its parent epic. 
+
+Task - A specific piece of development that is required to complete a story or epic.
+
+Bug - A blocker in development that can be tagged to indicate that the problem needs to be fixed before development can continue. Usually attached to a story or a task. 
+
