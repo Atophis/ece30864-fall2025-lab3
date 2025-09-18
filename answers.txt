@@ -36,3 +36,8 @@ Task - A specific piece of development that is required to complete a story or e
 
 Bug - A blocker in development that can be tagged to indicate that the problem needs to be fixed before development can continue. Usually attached to a story or a task. 
 
+
+
+
+
+
